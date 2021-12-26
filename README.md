@@ -1,7 +1,7 @@
 # Cheat-Ninja-Legends-Android
 Ninja Legends Cheat for Android
 
-### V.0003 Feature :
+### V.003 Feature :
 
 - 1 Hit Kill
 - HH Remove Limit Level

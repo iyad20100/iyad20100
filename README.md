@@ -16,5 +16,5 @@ Ninja Legends Cheat for Android
 
 ## Authors :
 
-*Irisan-Kentang
-*Cleosetric
+- **Irisan-Kentang**
+- **Cleosetric**

@@ -3,6 +3,8 @@ Ninja Legends Cheat for Android
 
 ### V.003 Feature :
 
+Adding Notice After Wining Battle to show battle code (for debugging purpouse)
+
 - 1 Hit Kill
 - HH Remove Limit Level
 - Unlock HH Requirement

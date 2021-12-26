@@ -1,7 +1,20 @@
-# Cheat-Ninja-Legends-Android-
-Ninja Legends v.002 Cheat, One Hit Kill, Mission, Hunting House
+# Cheat-Ninja-Legends-Android
+Ninja Legends Cheat for Android
 
-# Authors :
+### V.0003 Feature :
+
+- 1 Hit Kill
+- HH Remove Limit Level
+- Unlock HH Requirement
+- Mission all shin for EZ Win
+- Mission Remove Level Limit [Buggy]
+- Christmas Event Infinity Battle (Even After Heart is Drained)
+
+**Experiment :**
+- Skill Academy Hack Show Christmas Reward (API Problem)
+- HH Reset Bypass (API Problem)
+
+## Authors :
 
 *Irisan-Kentang
 *Cleosetric
